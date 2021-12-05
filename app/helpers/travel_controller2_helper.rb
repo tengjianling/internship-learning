@@ -1,0 +1,2 @@
+module TravelController2Helper
+end
